@@ -1,0 +1,15 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "name": "Omie SDK",
+  "entryPoints": [
+    "./src/index.ts",
+    "./src/types/index.ts",
+    "./src/lib/index.ts"
+  ],
+  "readme": "none",
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "plugin": [
+    "typedoc-plugin-markdown"
+  ]
+}
