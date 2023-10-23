@@ -14,5 +14,8 @@
       "es2022"
     ],
     "declaration": true
-  }
+  },
+  "exclude": [
+    "dist"
+  ]
 }

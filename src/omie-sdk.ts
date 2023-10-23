@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { Clientes, Caracteristicas, Tags, Projetos } from "./lib";
+import { Clientes, Caracteristicas, Tags, Projetos, Empresas } from "./lib";
 
 import type { ApiCredentials } from "./api";
 
@@ -17,6 +17,8 @@ export class OmieSdk {
   public readonly tags = new Tags(this._credentials);
 
   public readonly projetos = new Projetos(this._credentials);
+
+  public readonly empresas = new Empresas(this._credentials);
 }
 
 export default OmieSdk;
