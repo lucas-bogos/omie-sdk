@@ -17,7 +17,7 @@ import type {
  * Gerenciamento do cadastro de departamentos
  *
  * @public
- * @class Clientes
+ * @class Departamentos
  * @extends Api
  *
  * @see {@link https://app.omie.com.br/api/v1/geral/departamentos/}

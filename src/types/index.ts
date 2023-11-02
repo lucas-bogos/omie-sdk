@@ -5,3 +5,4 @@ export type * from "./tags";
 export type * from "./projetos";
 export type * from "./empresas";
 export type * from "./departamentos";
+export type * from "./categorias";
