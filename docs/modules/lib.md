@@ -8,5 +8,6 @@
 
 - [Caracteristicas](../classes/lib.Caracteristicas.md)
 - [Clientes](../classes/lib.Clientes.md)
+- [Empresas](../classes/lib.Empresas.md)
 - [Projetos](../classes/lib.Projetos.md)
 - [Tags](../classes/lib.Tags.md)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-types/clientes.ts:14
+[types/clientes.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L14)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:15
+[types/clientes.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L15)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:17
+[types/clientes.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L17)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:10
+[types/clientes.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L10)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:13
+[types/clientes.ts:13](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L13)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:11
+[types/clientes.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L11)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:16
+[types/clientes.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L16)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:20
+[types/clientes.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L20)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:12
+[types/clientes.ts:12](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L12)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:9
+[types/clientes.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L9)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:18
+[types/clientes.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L18)
 
 ___
 
@@ -139,4 +139,4 @@ ___
 
 #### Defined in
 
-types/clientes.ts:19
+[types/clientes.ts:19](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L19)

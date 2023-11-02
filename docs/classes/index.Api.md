@@ -24,6 +24,8 @@ Api Client para comunicação com a Omie
 
   ↳ [`Projetos`](lib.Projetos.md)
 
+  ↳ [`Empresas`](lib.Empresas.md)
+
 ## Table of contents
 
 ### Constructors
@@ -44,4 +46,4 @@ Api Client para comunicação com a Omie
 
 #### Defined in
 
-api.ts:32
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L32)

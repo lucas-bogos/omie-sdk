@@ -28,7 +28,7 @@ Importado pela API?
 
 #### Defined in
 
-types/clientes.ts:66
+[types/clientes.ts:66](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L66)
 
 ___
 
@@ -40,7 +40,7 @@ Data da alteração
 
 #### Defined in
 
-types/clientes.ts:54
+[types/clientes.ts:54](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L54)
 
 ___
 
@@ -52,7 +52,7 @@ Data da inclusão
 
 #### Defined in
 
-types/clientes.ts:42
+[types/clientes.ts:42](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L42)
 
 ___
 
@@ -64,7 +64,7 @@ Hora da alteração
 
 #### Defined in
 
-types/clientes.ts:58
+[types/clientes.ts:58](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L58)
 
 ___
 
@@ -76,7 +76,7 @@ Hora da inclusão
 
 #### Defined in
 
-types/clientes.ts:46
+[types/clientes.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L46)
 
 ___
 
@@ -88,7 +88,7 @@ Usuário da alteração
 
 #### Defined in
 
-types/clientes.ts:62
+[types/clientes.ts:62](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L62)
 
 ___
 
@@ -100,4 +100,4 @@ Usuário da inclusão
 
 #### Defined in
 
-types/clientes.ts:50
+[types/clientes.ts:50](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L50)

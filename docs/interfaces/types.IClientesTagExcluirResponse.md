@@ -8,7 +8,7 @@
 
 - [`IClientesTagsChave`](types.IClientesTagsChave.md)
 
-- [`IStatusTags`](types.IStatusTags.md)
+- [`IStatusTag`](types.IStatusTag.md)
 
   ↳ **`IClientesTagExcluirResponse`**
 
@@ -33,7 +33,7 @@
 
 #### Defined in
 
-types/tags.ts:16
+[types/tags.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L16)
 
 ___
 
@@ -43,11 +43,11 @@ ___
 
 #### Inherited from
 
-[IStatusTags](types.IStatusTags.md).[cCodStatus](types.IStatusTags.md#ccodstatus)
+[IStatusTag](types.IStatusTag.md).[cCodStatus](types.IStatusTag.md#ccodstatus)
 
 #### Defined in
 
-types/tags.ts:10
+[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L10)
 
 ___
 
@@ -57,11 +57,11 @@ ___
 
 #### Inherited from
 
-[IStatusTags](types.IStatusTags.md).[cDesStatus](types.IStatusTags.md#cdesstatus)
+[IStatusTag](types.IStatusTag.md).[cDesStatus](types.IStatusTag.md#cdesstatus)
 
 #### Defined in
 
-types/tags.ts:11
+[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L11)
 
 ___
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-types/tags.ts:15
+[types/tags.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L15)

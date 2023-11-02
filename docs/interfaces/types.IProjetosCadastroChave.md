@@ -35,7 +35,7 @@
 
 #### Defined in
 
-types/projetos.ts:10
+[types/projetos.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L10)
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 #### Defined in
 
-types/projetos.ts:9
+[types/projetos.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L9)

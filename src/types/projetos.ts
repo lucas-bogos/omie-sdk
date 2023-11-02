@@ -1,6 +1,6 @@
 import type { StringBoolean } from "../types";
 
-export interface IStatusProjetos {
+export interface IStatusProjeto {
   status: string;
   descricao: string;
 }
@@ -19,7 +19,7 @@ export interface IProjetosAlterarRequest extends ICadastroProjetos {}
 
 export interface IProjetosAlterarResponse
   extends IProjetosCadastroChave,
-    IStatusProjetos {}
+    IStatusProjeto {}
 
 export interface IProjetosConsultarRequest extends IProjetosCadastroChave {}
 
@@ -34,7 +34,7 @@ export interface IProjetosIncluirRequest
 
 export interface IProjetosIncluirResponse
   extends IProjetosCadastroChave,
-    IStatusProjetos {}
+    IStatusProjeto {}
 
 export interface IProjetosListarRequest extends ICadastroProjetos {
   /**
@@ -108,4 +108,4 @@ export interface IProjetosUpsertRequest extends ICadastroProjetos {}
 
 export interface IProjetosUpsertResponse
   extends IProjetosCadastroChave,
-    IStatusProjetos {}
+    IStatusProjeto {}

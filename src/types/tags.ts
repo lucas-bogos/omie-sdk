@@ -6,7 +6,7 @@ export interface ITag {
   tag: string;
 }
 
-export interface IStatusTags {
+export interface IStatusTag {
   cCodStatus: string;
   cDesStatus: string;
 }
@@ -22,13 +22,13 @@ export interface IClientesTagExcluirRequest extends IClientesTagsChave {
 
 export interface IClientesTagExcluirResponse
   extends IClientesTagsChave,
-    IStatusTags {}
+    IStatusTag {}
 
 export interface IClientesTagExcluirTodasRequest extends IClientesTagsChave {}
 
 export interface IClientesTagExcluirTodasResponse
   extends IClientesTagsChave,
-    IStatusTags {}
+    IStatusTag {}
 
 export interface IClientesTagIncluirRequest extends IClientesTagsChave {
   tags: ITag[];
@@ -36,7 +36,7 @@ export interface IClientesTagIncluirRequest extends IClientesTagsChave {
 
 export interface IClientesTagIncluirResponse
   extends IClientesTagsChave,
-    IStatusTags {
+    IStatusTag {
   tags: ITag[];
 }
 

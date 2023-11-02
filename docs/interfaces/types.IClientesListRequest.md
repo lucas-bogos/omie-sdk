@@ -34,7 +34,7 @@ Exibir apenas os registros gerados pela API?
 
 #### Defined in
 
-types/clientes.ts:182
+[types/clientes.ts:182](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L182)
 
 ___
 
@@ -46,7 +46,7 @@ Filtrar cadastro de clientes
 
 #### Defined in
 
-types/clientes.ts:220
+[types/clientes.ts:220](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L220)
 
 ___
 
@@ -58,7 +58,7 @@ Lista de Códigos para filtro de clientes
 
 #### Defined in
 
-types/clientes.ts:224
+[types/clientes.ts:224](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L224)
 
 ___
 
@@ -70,7 +70,7 @@ Exibir as caracteristicas do cliente?
 
 #### Defined in
 
-types/clientes.ts:228
+[types/clientes.ts:228](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L228)
 
 ___
 
@@ -82,7 +82,7 @@ Exibir as observações do cliente?
 
 #### Defined in
 
-types/clientes.ts:232
+[types/clientes.ts:232](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L232)
 
 ___
 
@@ -94,7 +94,7 @@ Filtrar apenas os registros alterados?
 
 #### Defined in
 
-types/clientes.ts:216
+[types/clientes.ts:216](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L216)
 
 ___
 
@@ -106,7 +106,7 @@ Filtrar apenas os registros incluídos?
 
 #### Defined in
 
-types/clientes.ts:212
+[types/clientes.ts:212](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L212)
 
 ___
 
@@ -118,7 +118,7 @@ Filtrar os registros até uma data
 
 #### Defined in
 
-types/clientes.ts:200
+[types/clientes.ts:200](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L200)
 
 ___
 
@@ -130,7 +130,7 @@ Filtrar os registros a partir de uma data
 
 #### Defined in
 
-types/clientes.ts:196
+[types/clientes.ts:196](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L196)
 
 ___
 
@@ -142,7 +142,7 @@ Filtro por hora até
 
 #### Defined in
 
-types/clientes.ts:208
+[types/clientes.ts:208](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L208)
 
 ___
 
@@ -154,7 +154,7 @@ Filtro por hora a apartir de
 
 #### Defined in
 
-types/clientes.ts:204
+[types/clientes.ts:204](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L204)
 
 ___
 
@@ -166,7 +166,7 @@ A lista será apresentada em ordem decrescente?
 
 #### Defined in
 
-types/clientes.ts:192
+[types/clientes.ts:192](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L192)
 
 ___
 
@@ -182,7 +182,7 @@ Ordem de exibição dos dados
 
 #### Defined in
 
-types/clientes.ts:188
+[types/clientes.ts:188](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L188)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-types/clientes.ts:177
+[types/clientes.ts:177](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L177)
 
 ___
 
@@ -202,4 +202,4 @@ ___
 
 #### Defined in
 
-types/clientes.ts:178
+[types/clientes.ts:178](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L178)

@@ -1,5 +1,5 @@
 import type {
-  ICaracteristicas,
+  ICaracteristica,
   IStatusProcessamento,
   StringBoolean,
   ITag,
@@ -146,7 +146,7 @@ export interface IClientesCadastro {
   documento_exterior?: string;
   inativo?: StringBoolean;
   dadosBancarios?: IDadosBancarios;
-  caracteristicas?: ICaracteristicas;
+  caracteristicas?: ICaracteristica;
   enviar_anexos?: StringBoolean;
   info?: Info;
   bloquear_exclusao?: StringBoolean;

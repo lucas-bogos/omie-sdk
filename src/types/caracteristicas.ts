@@ -5,14 +5,14 @@ export interface IStatusProcessamento {
   descricao_status: string;
 }
 
-export interface ICaracteristicas {
+export interface ICaracteristica {
   campo: string;
   conteudo: string;
 }
 
 export interface IAlterarCaractClienteRequest
   extends IClientesCadastroChave,
-    ICaracteristicas {}
+    ICaracteristica {}
 
 export interface IAlterarCaractClienteResponse
   extends IClientesCadastroChave,
@@ -23,12 +23,12 @@ export interface IConsultarCaractClienteRequest
 
 export interface IConsultarCaractClienteResponse
   extends IClientesCadastroChave {
-  caracteristicas: ICaracteristicas[];
+  caracteristicas: ICaracteristica[];
 }
 
 export interface IExcluirCaractClienteRequest
   extends IClientesCadastroChave,
-    Pick<ICaracteristicas, "campo"> {}
+    Pick<ICaracteristica, "campo"> {}
 
 export interface IExcluirCaractClienteResponse
   extends IClientesCadastroChave,
@@ -43,7 +43,7 @@ export interface IExcluirTodasCaractClienteResponse
 
 export interface IIncluirCaractClienteRequest
   extends IClientesCadastroChave,
-    ICaracteristicas {}
+    ICaracteristica {}
 
 export interface IIncluirCaractClienteResponse
   extends IClientesCadastroChave,

@@ -22,11 +22,11 @@
 
 ### caracteristicas
 
-• **caracteristicas**: [`ICaracteristicas`](types.ICaracteristicas.md)[]
+• **caracteristicas**: [`ICaracteristica`](types.ICaracteristica.md)[]
 
 #### Defined in
 
-types/caracteristicas.ts:26
+[types/caracteristicas.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/caracteristicas.ts#L26)
 
 ___
 
@@ -42,7 +42,7 @@ Código de integração com sistemas legados
 
 #### Defined in
 
-types/clientes.ts:86
+[types/clientes.ts:86](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L86)
 
 ___
 
@@ -58,4 +58,4 @@ Código de Cliente / Fornecedor
 
 #### Defined in
 
-types/clientes.ts:82
+[types/clientes.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L82)

@@ -8,7 +8,7 @@
 
 - [`IProjetosCadastroChave`](types.IProjetosCadastroChave.md)
 
-- [`IStatusProjetos`](types.IStatusProjetos.md)
+- [`IStatusProjeto`](types.IStatusProjeto.md)
 
   ↳ **`IProjetosIncluirResponse`**
 
@@ -33,7 +33,7 @@
 
 #### Defined in
 
-types/projetos.ts:10
+[types/projetos.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L10)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-types/projetos.ts:9
+[types/projetos.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L9)
 
 ___
 
@@ -57,11 +57,11 @@ ___
 
 #### Inherited from
 
-[IStatusProjetos](types.IStatusProjetos.md).[descricao](types.IStatusProjetos.md#descricao)
+[IStatusProjeto](types.IStatusProjeto.md).[descricao](types.IStatusProjeto.md#descricao)
 
 #### Defined in
 
-types/projetos.ts:5
+[types/projetos.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L5)
 
 ___
 
@@ -71,8 +71,8 @@ ___
 
 #### Inherited from
 
-[IStatusProjetos](types.IStatusProjetos.md).[status](types.IStatusProjetos.md#status)
+[IStatusProjeto](types.IStatusProjeto.md).[status](types.IStatusProjeto.md#status)
 
 #### Defined in
 
-types/projetos.ts:4
+[types/projetos.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L4)

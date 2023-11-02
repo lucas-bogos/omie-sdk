@@ -39,7 +39,7 @@ Exibir apenas os registros gerados pela API?
 
 #### Defined in
 
-types/projetos.ts:51
+[types/projetos.ts:51](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L51)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-types/projetos.ts:10
+[types/projetos.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L10)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-types/projetos.ts:9
+[types/projetos.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L9)
 
 ___
 
@@ -79,7 +79,7 @@ Filtrar apenas os registros alterados?
 
 #### Defined in
 
-types/projetos.ts:77
+[types/projetos.ts:77](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L77)
 
 ___
 
@@ -91,7 +91,7 @@ Filtrar apenas os registros incluídos?
 
 #### Defined in
 
-types/projetos.ts:73
+[types/projetos.ts:73](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L73)
 
 ___
 
@@ -103,7 +103,7 @@ Filtrar os registros até uma data
 
 #### Defined in
 
-types/projetos.ts:69
+[types/projetos.ts:69](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L69)
 
 ___
 
@@ -115,7 +115,7 @@ Filtrar os registros a partir de uma data
 
 #### Defined in
 
-types/projetos.ts:65
+[types/projetos.ts:65](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L65)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-types/projetos.ts:15
+[types/projetos.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L15)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-types/projetos.ts:14
+[types/projetos.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L14)
 
 ___
 
@@ -155,7 +155,7 @@ Nome do projeto
 
 #### Defined in
 
-types/projetos.ts:81
+[types/projetos.ts:81](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L81)
 
 ___
 
@@ -167,7 +167,7 @@ A lista será apresentada em ordem decrescente?
 
 #### Defined in
 
-types/projetos.ts:61
+[types/projetos.ts:61](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L61)
 
 ___
 
@@ -183,7 +183,7 @@ Ordem de exibição dos dados
 
 #### Defined in
 
-types/projetos.ts:57
+[types/projetos.ts:57](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L57)
 
 ___
 
@@ -195,7 +195,7 @@ Número da página listada
 
 #### Defined in
 
-types/projetos.ts:43
+[types/projetos.ts:43](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L43)
 
 ___
 
@@ -207,4 +207,4 @@ Número de registros retornados
 
 #### Defined in
 
-types/projetos.ts:47
+[types/projetos.ts:47](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L47)

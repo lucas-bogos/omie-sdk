@@ -30,7 +30,7 @@
 
 #### Defined in
 
-types/tags.ts:16
+[types/tags.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L16)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-types/tags.ts:15
+[types/tags.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L15)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-types/tags.ts:46
+[types/tags.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L46)

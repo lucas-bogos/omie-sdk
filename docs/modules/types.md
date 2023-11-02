@@ -9,7 +9,7 @@
 - [IAlterarCaractClienteRequest](../interfaces/types.IAlterarCaractClienteRequest.md)
 - [IAlterarCaractClienteResponse](../interfaces/types.IAlterarCaractClienteResponse.md)
 - [ICadastroProjetos](../interfaces/types.ICadastroProjetos.md)
-- [ICaracteristicas](../interfaces/types.ICaracteristicas.md)
+- [ICaracteristica](../interfaces/types.ICaracteristica.md)
 - [IClientesCadastro](../interfaces/types.IClientesCadastro.md)
 - [IClientesCadastroChave](../interfaces/types.IClientesCadastroChave.md)
 - [IClientesCadastroResumido](../interfaces/types.IClientesCadastroResumido.md)
@@ -30,6 +30,23 @@
 - [IConsultarCaractClienteRequest](../interfaces/types.IConsultarCaractClienteRequest.md)
 - [IConsultarCaractClienteResponse](../interfaces/types.IConsultarCaractClienteResponse.md)
 - [IDadosBancarios](../interfaces/types.IDadosBancarios.md)
+- [IDepartamento](../interfaces/types.IDepartamento.md)
+- [IDepartamentoAlterarRequest](../interfaces/types.IDepartamentoAlterarRequest.md)
+- [IDepartamentoAlterarResponse](../interfaces/types.IDepartamentoAlterarResponse.md)
+- [IDepartamentoChave](../interfaces/types.IDepartamentoChave.md)
+- [IDepartamentoConsultar](../interfaces/types.IDepartamentoConsultar.md)
+- [IDepartamentoExcluirRequest](../interfaces/types.IDepartamentoExcluirRequest.md)
+- [IDepartamentoExcluirResponse](../interfaces/types.IDepartamentoExcluirResponse.md)
+- [IDepartamentoIncluirRequest](../interfaces/types.IDepartamentoIncluirRequest.md)
+- [IDepartamentoIncluirResponse](../interfaces/types.IDepartamentoIncluirResponse.md)
+- [IDepartamentoListarRequest](../interfaces/types.IDepartamentoListarRequest.md)
+- [IDepartamentoListarResponse](../interfaces/types.IDepartamentoListarResponse.md)
+- [IEmpresasCadastro](../interfaces/types.IEmpresasCadastro.md)
+- [IEmpresasCadastroChave](../interfaces/types.IEmpresasCadastroChave.md)
+- [IEmpresasConsultar](../interfaces/types.IEmpresasConsultar.md)
+- [IEmpresasListarRequest](../interfaces/types.IEmpresasListarRequest.md)
+- [IEmpresasListarResponse](../interfaces/types.IEmpresasListarResponse.md)
+- [IEmpresasStatus](../interfaces/types.IEmpresasStatus.md)
 - [IEnderecoEntrega](../interfaces/types.IEnderecoEntrega.md)
 - [IExcluirCaractClienteRequest](../interfaces/types.IExcluirCaractClienteRequest.md)
 - [IExcluirCaractClienteResponse](../interfaces/types.IExcluirCaractClienteResponse.md)
@@ -51,9 +68,10 @@
 - [IProjetosUpsertRequest](../interfaces/types.IProjetosUpsertRequest.md)
 - [IProjetosUpsertResponse](../interfaces/types.IProjetosUpsertResponse.md)
 - [IRecomendacoes](../interfaces/types.IRecomendacoes.md)
+- [IStatusDepartamento](../interfaces/types.IStatusDepartamento.md)
 - [IStatusProcessamento](../interfaces/types.IStatusProcessamento.md)
-- [IStatusProjetos](../interfaces/types.IStatusProjetos.md)
-- [IStatusTags](../interfaces/types.IStatusTags.md)
+- [IStatusProjeto](../interfaces/types.IStatusProjeto.md)
+- [IStatusTag](../interfaces/types.IStatusTag.md)
 - [ITag](../interfaces/types.ITag.md)
 - [Info](../interfaces/types.Info.md)
 
@@ -80,7 +98,7 @@
 
 #### Defined in
 
-types/clientes.ts:235
+[types/clientes.ts:235](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L235)
 
 ___
 
@@ -92,4 +110,4 @@ ___
 
 #### Defined in
 
-types/string-boolean.ts:4
+[types/string-boolean.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/string-boolean.ts#L4)

@@ -8,7 +8,7 @@
 
 - [`IClientesCadastroChave`](types.IClientesCadastroChave.md)
 
-- [`ICaracteristicas`](types.ICaracteristicas.md)
+- [`ICaracteristica`](types.ICaracteristica.md)
 
   ↳ **`IIncluirCaractClienteRequest`**
 
@@ -29,11 +29,11 @@
 
 #### Inherited from
 
-[ICaracteristicas](types.ICaracteristicas.md).[campo](types.ICaracteristicas.md#campo)
+[ICaracteristica](types.ICaracteristica.md).[campo](types.ICaracteristica.md#campo)
 
 #### Defined in
 
-types/caracteristicas.ts:9
+[types/caracteristicas.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/caracteristicas.ts#L9)
 
 ___
 
@@ -49,7 +49,7 @@ Código de integração com sistemas legados
 
 #### Defined in
 
-types/clientes.ts:86
+[types/clientes.ts:86](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L86)
 
 ___
 
@@ -65,7 +65,7 @@ Código de Cliente / Fornecedor
 
 #### Defined in
 
-types/clientes.ts:82
+[types/clientes.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L82)
 
 ___
 
@@ -75,8 +75,8 @@ ___
 
 #### Inherited from
 
-[ICaracteristicas](types.ICaracteristicas.md).[conteudo](types.ICaracteristicas.md#conteudo)
+[ICaracteristica](types.ICaracteristica.md).[conteudo](types.ICaracteristica.md#conteudo)
 
 #### Defined in
 
-types/caracteristicas.ts:10
+[types/caracteristicas.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/caracteristicas.ts#L10)

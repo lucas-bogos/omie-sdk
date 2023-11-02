@@ -1,12 +1,12 @@
-[Omie SDK](../README.md) / [types](../modules/types.md) / IStatusTags
+[Omie SDK](../README.md) / [types](../modules/types.md) / IStatusTag
 
-# Interface: IStatusTags
+# Interface: IStatusTag
 
-[types](../modules/types.md).IStatusTags
+[types](../modules/types.md).IStatusTag
 
 ## Hierarchy
 
-- **`IStatusTags`**
+- **`IStatusTag`**
 
   ↳ [`IClientesTagExcluirResponse`](types.IClientesTagExcluirResponse.md)
 
@@ -18,8 +18,8 @@
 
 ### Properties
 
-- [cCodStatus](types.IStatusTags.md#ccodstatus)
-- [cDesStatus](types.IStatusTags.md#cdesstatus)
+- [cCodStatus](types.IStatusTag.md#ccodstatus)
+- [cDesStatus](types.IStatusTag.md#cdesstatus)
 
 ## Properties
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-types/tags.ts:10
+[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L10)
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-types/tags.ts:11
+[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/tags.ts#L11)
