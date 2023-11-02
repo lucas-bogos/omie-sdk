@@ -10,6 +10,11 @@
 - [IAlterarCaractClienteResponse](../interfaces/types.IAlterarCaractClienteResponse.md)
 - [ICadastroProjetos](../interfaces/types.ICadastroProjetos.md)
 - [ICaracteristica](../interfaces/types.ICaracteristica.md)
+- [ICategoriaCadastro](../interfaces/types.ICategoriaCadastro.md)
+- [ICategoriaCadastroChave](../interfaces/types.ICategoriaCadastroChave.md)
+- [ICategoriaConsultar](../interfaces/types.ICategoriaConsultar.md)
+- [ICategoriaListFullResponse](../interfaces/types.ICategoriaListFullResponse.md)
+- [ICategoriaListRequest](../interfaces/types.ICategoriaListRequest.md)
 - [IClientesCadastro](../interfaces/types.IClientesCadastro.md)
 - [IClientesCadastroChave](../interfaces/types.IClientesCadastroChave.md)
 - [IClientesCadastroResumido](../interfaces/types.IClientesCadastroResumido.md)
@@ -30,6 +35,7 @@
 - [IConsultarCaractClienteRequest](../interfaces/types.IConsultarCaractClienteRequest.md)
 - [IConsultarCaractClienteResponse](../interfaces/types.IConsultarCaractClienteResponse.md)
 - [IDadosBancarios](../interfaces/types.IDadosBancarios.md)
+- [IDadosDRE](../interfaces/types.IDadosDRE.md)
 - [IDepartamento](../interfaces/types.IDepartamento.md)
 - [IDepartamentoAlterarRequest](../interfaces/types.IDepartamentoAlterarRequest.md)
 - [IDepartamentoAlterarResponse](../interfaces/types.IDepartamentoAlterarResponse.md)
@@ -79,6 +85,7 @@
 
 - [IClientesListResponse](types.md#iclienteslistresponse)
 - [StringBoolean](types.md#stringboolean)
+- [TipoCategoria](types.md#tipocategoria)
 
 ## Type Aliases
 
@@ -98,7 +105,7 @@
 
 #### Defined in
 
-[types/clientes.ts:235](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L235)
+[types/clientes.ts:235](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L235)
 
 ___
 
@@ -110,4 +117,20 @@ ___
 
 #### Defined in
 
-[types/string-boolean.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/string-boolean.ts#L4)
+[types/string-boolean.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/string-boolean.ts#L4)
+
+___
+
+### TipoCategoria
+
+Ƭ **TipoCategoria**: ``"R"`` \| ``"D"`` \| ``"T"``
+
+R - Receita
+D - Despesa
+T - Transferência
+
+Retorna apenas as categorias ativas, não totalizadoras e que estejam configuradas para serem exibidas.
+
+#### Defined in
+
+[types/categorias.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L119)

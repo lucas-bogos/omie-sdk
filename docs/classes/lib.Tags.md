@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
 
 ## Methods
 
@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[lib/tags.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/tags.ts#L33)
+[lib/tags.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/tags.ts#L33)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[lib/tags.ts:39](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/tags.ts#L39)
+[lib/tags.ts:39](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/tags.ts#L39)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[lib/tags.ts:21](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/tags.ts#L21)
+[lib/tags.ts:21](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/tags.ts#L21)
 
 ___
 
@@ -125,4 +125,4 @@ ___
 
 #### Defined in
 
-[lib/tags.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/tags.ts#L27)
+[lib/tags.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/tags.ts#L27)

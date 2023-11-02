@@ -37,7 +37,7 @@ Chave e segredo da aplicação Omie
 
 #### Defined in
 
-[api.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L99)
+[api.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L99)
 
 ___
 
@@ -58,7 +58,7 @@ Corpo da requisição base para chamadas API
 
 #### Defined in
 
-[api.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L107)
+[api.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L107)
 
 ## Variables
 
@@ -68,7 +68,7 @@ Corpo da requisição base para chamadas API
 
 #### Defined in
 
-[constants.ts:1](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/constants.ts#L1)
+[constants.ts:1](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/constants.ts#L1)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[constants.ts:3](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/constants.ts#L3)
+[constants.ts:3](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/constants.ts#L3)
 
 ___
 
@@ -88,4 +88,4 @@ ___
 
 #### Defined in
 
-[constants.ts:2](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/constants.ts#L2)
+[constants.ts:2](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/constants.ts#L2)

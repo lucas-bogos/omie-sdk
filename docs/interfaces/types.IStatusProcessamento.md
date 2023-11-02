@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[types/caracteristicas.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/caracteristicas.ts#L4)
+[types/caracteristicas.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/caracteristicas.ts#L4)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[types/caracteristicas.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/caracteristicas.ts#L5)
+[types/caracteristicas.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/caracteristicas.ts#L5)

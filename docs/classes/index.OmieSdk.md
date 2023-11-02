@@ -13,7 +13,9 @@
 ### Properties
 
 - [caracteristicas](index.OmieSdk.md#caracteristicas)
+- [categorias](index.OmieSdk.md#categorias)
 - [clientes](index.OmieSdk.md#clientes)
+- [departamentos](index.OmieSdk.md#departamentos)
 - [empresas](index.OmieSdk.md#empresas)
 - [projetos](index.OmieSdk.md#projetos)
 - [tags](index.OmieSdk.md#tags)
@@ -32,7 +34,7 @@
 
 #### Defined in
 
-[omie-sdk.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L9)
+[omie-sdk.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L17)
 
 ## Properties
 
@@ -42,7 +44,17 @@
 
 #### Defined in
 
-[omie-sdk.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L15)
+[omie-sdk.ts:23](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L23)
+
+___
+
+### categorias
+
+• `Readonly` **categorias**: [`Categorias`](lib.Categorias.md)
+
+#### Defined in
+
+[omie-sdk.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L33)
 
 ___
 
@@ -52,7 +64,17 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:13](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L13)
+[omie-sdk.ts:21](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L21)
+
+___
+
+### departamentos
+
+• `Readonly` **departamentos**: [`Departamentos`](lib.Departamentos.md)
+
+#### Defined in
+
+[omie-sdk.ts:31](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L31)
 
 ___
 
@@ -62,7 +84,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:21](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L21)
+[omie-sdk.ts:29](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L29)
 
 ___
 
@@ -72,7 +94,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:19](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L19)
+[omie-sdk.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L27)
 
 ___
 
@@ -82,4 +104,4 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/omie-sdk.ts#L17)
+[omie-sdk.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L25)

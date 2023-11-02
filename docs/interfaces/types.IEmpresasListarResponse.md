@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[types/empresas.ts:219](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L219)
+[types/empresas.ts:219](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L219)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:215](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L215)
+[types/empresas.ts:215](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L215)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:217](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L217)
+[types/empresas.ts:217](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L217)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:216](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L216)
+[types/empresas.ts:216](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L216)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:218](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L218)
+[types/empresas.ts:218](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L218)

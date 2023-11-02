@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
 
 ## Methods
 
@@ -63,7 +63,7 @@
 
 #### Defined in
 
-[lib/empresas.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/empresas.ts#L18)
+[lib/empresas.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/empresas.ts#L18)
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 #### Defined in
 
-[lib/empresas.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/empresas.ts#L22)
+[lib/empresas.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/empresas.ts#L22)

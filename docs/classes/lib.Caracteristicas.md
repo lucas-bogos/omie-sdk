@@ -48,7 +48,7 @@ Gerenciamento de caracteristicas do cliente
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
 
 ## Methods
 
@@ -68,7 +68,7 @@ Gerenciamento de caracteristicas do cliente
 
 #### Defined in
 
-[lib/caracteristicas.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/caracteristicas.ts#L46)
+[lib/caracteristicas.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/caracteristicas.ts#L46)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[lib/caracteristicas.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/caracteristicas.ts#L36)
+[lib/caracteristicas.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/caracteristicas.ts#L36)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[lib/caracteristicas.ts:66](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/caracteristicas.ts#L66)
+[lib/caracteristicas.ts:66](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/caracteristicas.ts#L66)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[lib/caracteristicas.ts:56](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/caracteristicas.ts#L56)
+[lib/caracteristicas.ts:56](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/caracteristicas.ts#L56)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[lib/caracteristicas.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/lib/caracteristicas.ts#L26)
+[lib/caracteristicas.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/caracteristicas.ts#L26)

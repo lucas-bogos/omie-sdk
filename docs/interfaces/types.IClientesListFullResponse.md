@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[types/clientes.ts:248](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L248)
+[types/clientes.ts:248](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L248)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:244](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L244)
+[types/clientes.ts:244](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L244)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:246](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L246)
+[types/clientes.ts:246](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L246)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:245](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L245)
+[types/clientes.ts:245](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L245)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:247](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/clientes.ts#L247)
+[types/clientes.ts:247](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L247)

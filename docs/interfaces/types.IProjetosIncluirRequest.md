@@ -30,7 +30,7 @@ Omit.codInt
 
 #### Defined in
 
-[types/projetos.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L10)
+[types/projetos.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L10)
 
 ___
 
@@ -44,7 +44,7 @@ Omit.inativo
 
 #### Defined in
 
-[types/projetos.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L15)
+[types/projetos.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L15)
 
 ___
 
@@ -58,4 +58,4 @@ Omit.nome
 
 #### Defined in
 
-[types/projetos.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/projetos.ts#L14)
+[types/projetos.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L14)

@@ -93,7 +93,7 @@ Data de alteração
 
 #### Defined in
 
-[types/empresas.ts:147](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L147)
+[types/empresas.ts:147](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L147)
 
 ___
 
@@ -105,7 +105,7 @@ Hora de alteração
 
 #### Defined in
 
-[types/empresas.ts:151](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L151)
+[types/empresas.ts:151](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L151)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L16)
+[types/empresas.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L16)
 
 ___
 
@@ -127,7 +127,7 @@ Registro bloqueado pela API?
 
 #### Defined in
 
-[types/empresas.ts:155](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L155)
+[types/empresas.ts:155](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L155)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:19](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L19)
+[types/empresas.ts:19](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L19)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L17)
+[types/empresas.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L17)
 
 ___
 
@@ -159,7 +159,7 @@ Código do CNAE - Fiscal
 
 #### Defined in
 
-[types/empresas.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L36)
+[types/empresas.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L36)
 
 ___
 
@@ -171,7 +171,7 @@ Código do CNAE - Municipal
 
 #### Defined in
 
-[types/empresas.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L40)
+[types/empresas.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L40)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L9)
+[types/empresas.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L9)
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L4)
+[types/empresas.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L4)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L5)
+[types/empresas.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L5)
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L20)
+[types/empresas.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L20)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L15)
+[types/empresas.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L15)
 
 ___
 
@@ -241,7 +241,7 @@ Código de Segurança do Contribuinte em ambiente de homologação
 
 #### Defined in
 
-[types/empresas.ts:195](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L195)
+[types/empresas.ts:195](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L195)
 
 ___
 
@@ -253,7 +253,7 @@ Identificador do Código de Segurança do Contribuinte em ambiente homologação
 
 #### Defined in
 
-[types/empresas.ts:191](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L191)
+[types/empresas.ts:191](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L191)
 
 ___
 
@@ -265,7 +265,7 @@ Identificador do Código de Segurança do Contribuinte em ambiente produção
 
 #### Defined in
 
-[types/empresas.ts:199](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L199)
+[types/empresas.ts:199](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L199)
 
 ___
 
@@ -277,7 +277,7 @@ Código de Segurança do Contribuinte em ambiente de produção
 
 #### Defined in
 
-[types/empresas.ts:203](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L203)
+[types/empresas.ts:203](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L203)
 
 ___
 
@@ -289,7 +289,7 @@ Data de Adesão ao Simples Nacional
 
 #### Defined in
 
-[types/empresas.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L24)
+[types/empresas.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L24)
 
 ___
 
@@ -301,7 +301,7 @@ Data de Adesão do Simples Nacional
 
 #### Defined in
 
-[types/empresas.ts:167](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L167)
+[types/empresas.ts:167](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L167)
 
 ___
 
@@ -313,7 +313,7 @@ SPED / ECD - Código cadastral na Instituição Responsável
 
 #### Defined in
 
-[types/empresas.ts:127](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L127)
+[types/empresas.ts:127](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L127)
 
 ___
 
@@ -325,7 +325,7 @@ SPED / ECD - Código da Instituição Responsável pela Administração do Cadas
 
 #### Defined in
 
-[types/empresas.ts:131](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L131)
+[types/empresas.ts:131](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L131)
 
 ___
 
@@ -337,7 +337,7 @@ EFD - Indica se a atividade é industrial ou equiparado a indústria
 
 #### Defined in
 
-[types/empresas.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L119)
+[types/empresas.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L119)
 
 ___
 
@@ -349,7 +349,7 @@ Perfil de Apresentação do Arquivo Fiscal - EFD
 
 #### Defined in
 
-[types/empresas.ts:123](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L123)
+[types/empresas.ts:123](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L123)
 
 ___
 
@@ -359,7 +359,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:31](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L31)
+[types/empresas.ts:31](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L31)
 
 ___
 
@@ -369,7 +369,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:13](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L13)
+[types/empresas.ts:13](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L13)
 
 ___
 
@@ -379,7 +379,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L14)
+[types/empresas.ts:14](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L14)
 
 ___
 
@@ -389,7 +389,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L18)
+[types/empresas.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L18)
 
 ___
 
@@ -399,7 +399,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:29](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L29)
+[types/empresas.ts:29](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L29)
 
 ___
 
@@ -409,7 +409,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:30](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L30)
+[types/empresas.ts:30](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L30)
 
 ___
 
@@ -421,7 +421,7 @@ Gera Nota Fiscal Eletrônica Âmbito Nacional (DANFE)?
 
 #### Defined in
 
-[types/empresas.ts:135](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L135)
+[types/empresas.ts:135](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L135)
 
 ___
 
@@ -433,7 +433,7 @@ Gera Nota Fiscal de Serviço Eletrônica para o Município
 
 #### Defined in
 
-[types/empresas.ts:55](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L55)
+[types/empresas.ts:55](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L55)
 
 ___
 
@@ -445,7 +445,7 @@ Gerar Recibo de Prestação de Serviço?
 
 #### Defined in
 
-[types/empresas.ts:179](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L179)
+[types/empresas.ts:179](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L179)
 
 ___
 
@@ -457,7 +457,7 @@ Inscrição Estadual para ST
 
 #### Defined in
 
-[types/empresas.ts:171](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L171)
+[types/empresas.ts:171](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L171)
 
 ___
 
@@ -469,7 +469,7 @@ Importado da API
 
 #### Defined in
 
-[types/empresas.ts:159](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L159)
+[types/empresas.ts:159](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L159)
 
 ___
 
@@ -481,7 +481,7 @@ Indica que a empresa está ativa
 
 #### Defined in
 
-[types/empresas.ts:51](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L51)
+[types/empresas.ts:51](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L51)
 
 ___
 
@@ -493,7 +493,7 @@ Data de inclusão
 
 #### Defined in
 
-[types/empresas.ts:139](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L139)
+[types/empresas.ts:139](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L139)
 
 ___
 
@@ -505,7 +505,7 @@ Hora de inclusão
 
 #### Defined in
 
-[types/empresas.ts:143](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L143)
+[types/empresas.ts:143](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L143)
 
 ___
 
@@ -515,7 +515,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:41](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L41)
+[types/empresas.ts:41](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L41)
 
 ___
 
@@ -525,7 +525,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:42](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L42)
+[types/empresas.ts:42](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L42)
 
 ___
 
@@ -535,7 +535,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:43](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L43)
+[types/empresas.ts:43](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L43)
 
 ___
 
@@ -545,7 +545,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:12](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L12)
+[types/empresas.ts:12](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L12)
 
 ___
 
@@ -555,7 +555,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L11)
+[types/empresas.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L11)
 
 ___
 
@@ -567,7 +567,7 @@ Indica que a empresa é optante pelo Simples Nacional
 
 #### Defined in
 
-[types/empresas.ts:59](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L59)
+[types/empresas.ts:59](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L59)
 
 ___
 
@@ -579,7 +579,7 @@ Sincronizar Estoque de Forma Análitica (Venda a Venda)
 
 #### Defined in
 
-[types/empresas.ts:163](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L163)
+[types/empresas.ts:163](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L163)
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L10)
+[types/empresas.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L10)
 
 ___
 
@@ -601,7 +601,7 @@ Identificação do Profissional (contador, advogado, etc) para o Recibo de Prest
 
 #### Defined in
 
-[types/empresas.ts:175](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L175)
+[types/empresas.ts:175](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L175)
 
 ___
 
@@ -613,7 +613,7 @@ Indica se o Recibo de Prestação de Serviço será gerado em 2 vias
 
 #### Defined in
 
-[types/empresas.ts:187](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L187)
+[types/empresas.ts:187](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L187)
 
 ___
 
@@ -625,7 +625,7 @@ Tipo (modelo) do Recibo de Prestação de Serviço
 
 #### Defined in
 
-[types/empresas.ts:183](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L183)
+[types/empresas.ts:183](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L183)
 
 ___
 
@@ -637,7 +637,7 @@ Regime Tributário?
 
 #### Defined in
 
-[types/empresas.ts:47](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L47)
+[types/empresas.ts:47](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L47)
 
 ___
 
@@ -649,7 +649,7 @@ SPED PIS/COFINS - Código Indicador do Critério de Escrituração e Apuração
 
 #### Defined in
 
-[types/empresas.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L99)
+[types/empresas.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L99)
 
 ___
 
@@ -661,7 +661,7 @@ SPED PIS/COFINS - Código Indicador da Incidência Tributária no Período
 
 #### Defined in
 
-[types/empresas.ts:63](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L63)
+[types/empresas.ts:63](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L63)
 
 ___
 
@@ -673,7 +673,7 @@ SPED PIS/COFINS - Código Código Indicador de Método de Apropriação de Créd
 
 #### Defined in
 
-[types/empresas.ts:87](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L87)
+[types/empresas.ts:87](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L87)
 
 ___
 
@@ -685,7 +685,7 @@ SPED PIS/COFINS - Código Indicador de Tipo de Atividade Preponderante
 
 #### Defined in
 
-[types/empresas.ts:91](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L91)
+[types/empresas.ts:91](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L91)
 
 ___
 
@@ -697,7 +697,7 @@ SPED PIS/COFINS - Código indicador do Tipo de Contribuição Apurada no Períod
 
 #### Defined in
 
-[types/empresas.ts:67](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L67)
+[types/empresas.ts:67](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L67)
 
 ___
 
@@ -709,7 +709,7 @@ SPED - CPF do Contador Responsável pela Empresa
 
 #### Defined in
 
-[types/empresas.ts:71](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L71)
+[types/empresas.ts:71](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L71)
 
 ___
 
@@ -721,7 +721,7 @@ SPED - CRC do Contador Responsável pela Empresa
 
 #### Defined in
 
-[types/empresas.ts:75](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L75)
+[types/empresas.ts:75](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L75)
 
 ___
 
@@ -733,7 +733,7 @@ SPED - Email do Contador da Empresa
 
 #### Defined in
 
-[types/empresas.ts:83](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L83)
+[types/empresas.ts:83](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L83)
 
 ___
 
@@ -745,7 +745,7 @@ SPED - Indica se o Local do Registro é Junta Comercial
 
 #### Defined in
 
-[types/empresas.ts:103](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L103)
+[types/empresas.ts:103](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L103)
 
 ___
 
@@ -757,7 +757,7 @@ SPED - Indica se a empresa é Matriz
 
 #### Defined in
 
-[types/empresas.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L107)
+[types/empresas.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L107)
 
 ___
 
@@ -769,7 +769,7 @@ SPED PIS/COFINS - Indicador da Natureza da Pessoa Jurídica
 
 #### Defined in
 
-[types/empresas.ts:95](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L95)
+[types/empresas.ts:95](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L95)
 
 ___
 
@@ -781,7 +781,7 @@ SPED - Nome do Contador Responsável pela Empresa
 
 #### Defined in
 
-[types/empresas.ts:111](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L111)
+[types/empresas.ts:111](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L111)
 
 ___
 
@@ -793,7 +793,7 @@ SPED - Número do Registro da Empresa na Junta Comercial ou no Cartório
 
 #### Defined in
 
-[types/empresas.ts:115](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L115)
+[types/empresas.ts:115](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L115)
 
 ___
 
@@ -805,7 +805,7 @@ SPED - Indica se a Empresa utiliza Contabilidade Terceirizada
 
 #### Defined in
 
-[types/empresas.ts:79](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L79)
+[types/empresas.ts:79](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L79)
 
 ___
 
@@ -815,7 +815,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L25)
+[types/empresas.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L25)
 
 ___
 
@@ -825,7 +825,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L26)
+[types/empresas.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L26)
 
 ___
 
@@ -835,7 +835,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L27)
+[types/empresas.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L27)
 
 ___
 
@@ -845,7 +845,7 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L28)
+[types/empresas.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L28)
 
 ___
 
@@ -855,4 +855,4 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/empresas.ts#L32)
+[types/empresas.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L32)

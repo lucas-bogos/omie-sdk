@@ -31,7 +31,7 @@ Código do status do processamento
 
 #### Defined in
 
-[types/departamentos.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/departamentos.ts#L33)
+[types/departamentos.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L33)
 
 ___
 
@@ -43,4 +43,4 @@ Descrição do status do processamento
 
 #### Defined in
 
-[types/departamentos.ts:37](https://github.com/lucas-bogos/omie-sdk/blob/f0ca102/src/types/departamentos.ts#L37)
+[types/departamentos.ts:37](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L37)
