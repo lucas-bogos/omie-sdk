@@ -33,7 +33,7 @@ Código da Categoria de Nivel Superior
 
 #### Defined in
 
-[types/categorias.ts:60](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L60)
+[types/categorias.ts:60](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L60)
 
 ___
 
@@ -45,7 +45,7 @@ Código no DRE
 
 #### Defined in
 
-[types/categorias.ts:56](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L56)
+[types/categorias.ts:56](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L56)
 
 ___
 
@@ -57,7 +57,7 @@ Indica que é conta de despesa
 
 #### Defined in
 
-[types/categorias.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L32)
+[types/categorias.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L32)
 
 ___
 
@@ -69,7 +69,7 @@ Indica que a conta está inativo
 
 #### Defined in
 
-[types/categorias.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L16)
+[types/categorias.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L16)
 
 ___
 
@@ -81,7 +81,7 @@ Indica que é conta de receita
 
 #### Defined in
 
-[types/categorias.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L44)
+[types/categorias.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L44)
 
 ___
 
@@ -93,7 +93,7 @@ Detalhes da conta do DRE
 
 #### Defined in
 
-[types/categorias.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L64)
+[types/categorias.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L64)
 
 ___
 
@@ -105,7 +105,7 @@ Indica que a conta financeira é definida pelo usuário
 
 #### Defined in
 
-[types/categorias.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L20)
+[types/categorias.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L20)
 
 ___
 
@@ -117,7 +117,7 @@ Descrição Padrão para a Categoria
 
 #### Defined in
 
-[types/categorias.ts:12](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L12)
+[types/categorias.ts:12](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L12)
 
 ___
 
@@ -129,7 +129,7 @@ ID da Conta Contábil
 
 #### Defined in
 
-[types/categorias.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L24)
+[types/categorias.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L24)
 
 ___
 
@@ -141,7 +141,7 @@ Indica que a Categoria não deve ser exibida em ComboBox
 
 #### Defined in
 
-[types/categorias.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L36)
+[types/categorias.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L36)
 
 ___
 
@@ -153,7 +153,7 @@ Descrição da Natureza da conta
 
 #### Defined in
 
-[types/categorias.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L40)
+[types/categorias.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L40)
 
 ___
 
@@ -165,7 +165,7 @@ Tag para Conta Contábil
 
 #### Defined in
 
-[types/categorias.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L28)
+[types/categorias.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L28)
 
 ___
 
@@ -177,7 +177,7 @@ Indica que é totalizadora de conta
 
 #### Defined in
 
-[types/categorias.ts:48](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L48)
+[types/categorias.ts:48](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L48)
 
 ___
 
@@ -189,4 +189,4 @@ Indica que é categoria de transferência
 
 #### Defined in
 
-[types/categorias.ts:52](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L52)
+[types/categorias.ts:52](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L52)

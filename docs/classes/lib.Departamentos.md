@@ -48,7 +48,7 @@ Gerenciamento do cadastro de departamentos
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/api.ts#L32)
 
 ## Methods
 
@@ -68,7 +68,7 @@ Gerenciamento do cadastro de departamentos
 
 #### Defined in
 
-[lib/departamentos.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/departamentos.ts#L36)
+[lib/departamentos.ts:36](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/departamentos.ts#L36)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[lib/departamentos.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/departamentos.ts#L46)
+[lib/departamentos.ts:46](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/departamentos.ts#L46)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[lib/departamentos.ts:54](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/departamentos.ts#L54)
+[lib/departamentos.ts:54](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/departamentos.ts#L54)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[lib/departamentos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/departamentos.ts#L26)
+[lib/departamentos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/departamentos.ts#L26)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[lib/departamentos.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/departamentos.ts#L64)
+[lib/departamentos.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/departamentos.ts#L64)

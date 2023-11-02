@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[types/tags.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L16)
+[types/tags.ts:16](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L16)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L10)
+[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L10)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L11)
+[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L11)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[types/tags.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L15)
+[types/tags.ts:15](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L15)
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[types/tags.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L40)
+[types/tags.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L40)

@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/empresas.ts:210](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L210)
+[types/empresas.ts:210](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/empresas.ts#L210)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/empresas.ts:211](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/empresas.ts#L211)
+[types/empresas.ts:211](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/empresas.ts#L211)

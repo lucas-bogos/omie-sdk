@@ -21,7 +21,7 @@ Tags do Cliente ou Fornecedor
 
 #### Defined in
 
-[types/tags.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L5)
+[types/tags.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L5)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[types/tags.ts:6](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L6)
+[types/tags.ts:6](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L6)

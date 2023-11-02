@@ -34,7 +34,7 @@ Código do Departamento / Centro de Custo
 
 #### Defined in
 
-[types/departamentos.ts:7](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L7)
+[types/departamentos.ts:7](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L7)
 
 ___
 
@@ -50,7 +50,7 @@ Nome do Departamento / Centro de Custo
 
 #### Defined in
 
-[types/departamentos.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L11)
+[types/departamentos.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L11)
 
 ___
 
@@ -62,7 +62,7 @@ Utilizado para estruturação dos Departamentos no modo "diagrama"
 
 #### Defined in
 
-[types/departamentos.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L18)
+[types/departamentos.ts:18](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L18)
 
 ___
 
@@ -74,7 +74,7 @@ Indica que o Departamento / Centro de Custo está inativo
 
 #### Defined in
 
-[types/departamentos.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L22)
+[types/departamentos.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L22)
 
 ___
 
@@ -86,4 +86,4 @@ Indica que o Departamento / Centro de Custo é um nível totalizador
 
 #### Defined in
 
-[types/departamentos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L26)
+[types/departamentos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L26)

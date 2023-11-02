@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/categorias.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L4)
+[types/categorias.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L4)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/categorias.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L5)
+[types/categorias.ts:5](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L5)

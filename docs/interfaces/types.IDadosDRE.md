@@ -25,7 +25,7 @@ Código da Conta do DRE
 
 #### Defined in
 
-[types/categorias.ts:89](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L89)
+[types/categorias.ts:89](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L89)
 
 ___
 
@@ -37,7 +37,7 @@ Descrição da Conta do DRE
 
 #### Defined in
 
-[types/categorias.ts:93](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L93)
+[types/categorias.ts:93](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L93)
 
 ___
 
@@ -49,7 +49,7 @@ Indica se a Conta está marcada para não exibir no DRE
 
 #### Defined in
 
-[types/categorias.ts:97](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L97)
+[types/categorias.ts:97](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L97)
 
 ___
 
@@ -61,7 +61,7 @@ Nível da Conta da DRE
 
 #### Defined in
 
-[types/categorias.ts:101](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L101)
+[types/categorias.ts:101](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L101)
 
 ___
 
@@ -73,7 +73,7 @@ Sinal da Conta para o DRE
 
 #### Defined in
 
-[types/categorias.ts:105](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L105)
+[types/categorias.ts:105](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L105)
 
 ___
 
@@ -85,4 +85,4 @@ Indica se a Conta do DRE é Totalizadora
 
 #### Defined in
 
-[types/categorias.ts:109](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L109)
+[types/categorias.ts:109](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L109)

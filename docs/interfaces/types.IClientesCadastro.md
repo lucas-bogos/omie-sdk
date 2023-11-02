@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[types/clientes.ts:109](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L109)
+[types/clientes.ts:109](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L109)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:139](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L139)
+[types/clientes.ts:139](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L139)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:152](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L152)
+[types/clientes.ts:152](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L152)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:142](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L142)
+[types/clientes.ts:142](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L142)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:149](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L149)
+[types/clientes.ts:149](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L149)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:113](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L113)
+[types/clientes.ts:113](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L113)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:112](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L112)
+[types/clientes.ts:112](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L112)
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:140](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L140)
+[types/clientes.ts:140](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L140)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:128](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L128)
+[types/clientes.ts:128](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L128)
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:102](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L102)
+[types/clientes.ts:102](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L102)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:100](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L100)
+[types/clientes.ts:100](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L100)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L99)
+[types/clientes.ts:99](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L99)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:114](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L114)
+[types/clientes.ts:114](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L114)
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:110](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L110)
+[types/clientes.ts:110](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L110)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:106](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L106)
+[types/clientes.ts:106](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L106)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:130](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L130)
+[types/clientes.ts:130](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L130)
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:148](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L148)
+[types/clientes.ts:148](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L148)
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:146](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L146)
+[types/clientes.ts:146](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L146)
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:121](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L121)
+[types/clientes.ts:121](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L121)
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L107)
+[types/clientes.ts:107](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L107)
 
 ___
 
@@ -271,7 +271,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:144](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L144)
+[types/clientes.ts:144](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L144)
 
 ___
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:108](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L108)
+[types/clientes.ts:108](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L108)
 
 ___
 
@@ -291,7 +291,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:150](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L150)
+[types/clientes.ts:150](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L150)
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:111](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L111)
+[types/clientes.ts:111](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L111)
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:136](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L136)
+[types/clientes.ts:136](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L136)
 
 ___
 
@@ -321,7 +321,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L119)
+[types/clientes.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L119)
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:120](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L120)
+[types/clientes.ts:120](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L120)
 
 ___
 
@@ -341,7 +341,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:122](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L122)
+[types/clientes.ts:122](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L122)
 
 ___
 
@@ -351,7 +351,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:138](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L138)
+[types/clientes.ts:138](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L138)
 
 ___
 
@@ -361,7 +361,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:147](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L147)
+[types/clientes.ts:147](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L147)
 
 ___
 
@@ -371,7 +371,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:151](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L151)
+[types/clientes.ts:151](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L151)
 
 ___
 
@@ -381,7 +381,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:123](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L123)
+[types/clientes.ts:123](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L123)
 
 ___
 
@@ -391,7 +391,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:124](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L124)
+[types/clientes.ts:124](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L124)
 
 ___
 
@@ -401,7 +401,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:125](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L125)
+[types/clientes.ts:125](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L125)
 
 ___
 
@@ -411,7 +411,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:137](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L137)
+[types/clientes.ts:137](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L137)
 
 ___
 
@@ -421,7 +421,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:145](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L145)
+[types/clientes.ts:145](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L145)
 
 ___
 
@@ -431,7 +431,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:103](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L103)
+[types/clientes.ts:103](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L103)
 
 ___
 
@@ -441,7 +441,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:132](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L132)
+[types/clientes.ts:132](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L132)
 
 ___
 
@@ -451,7 +451,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:131](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L131)
+[types/clientes.ts:131](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L131)
 
 ___
 
@@ -461,7 +461,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:126](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L126)
+[types/clientes.ts:126](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L126)
 
 ___
 
@@ -471,7 +471,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:116](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L116)
+[types/clientes.ts:116](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L116)
 
 ___
 
@@ -481,7 +481,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:135](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L135)
+[types/clientes.ts:135](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L135)
 
 ___
 
@@ -491,7 +491,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:129](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L129)
+[types/clientes.ts:129](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L129)
 
 ___
 
@@ -501,7 +501,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:101](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L101)
+[types/clientes.ts:101](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L101)
 
 ___
 
@@ -511,7 +511,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:133](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L133)
+[types/clientes.ts:133](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L133)
 
 ___
 
@@ -521,7 +521,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:143](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L143)
+[types/clientes.ts:143](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L143)
 
 ___
 
@@ -531,7 +531,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:115](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L115)
+[types/clientes.ts:115](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L115)
 
 ___
 
@@ -541,7 +541,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:134](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L134)
+[types/clientes.ts:134](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L134)
 
 ___
 
@@ -551,7 +551,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:104](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L104)
+[types/clientes.ts:104](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L104)
 
 ___
 
@@ -561,7 +561,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:105](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L105)
+[types/clientes.ts:105](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L105)
 
 ___
 
@@ -571,7 +571,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:117](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L117)
+[types/clientes.ts:117](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L117)
 
 ___
 
@@ -581,7 +581,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:118](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L118)
+[types/clientes.ts:118](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L118)
 
 ___
 
@@ -591,7 +591,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:127](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L127)
+[types/clientes.ts:127](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L127)
 
 ___
 
@@ -601,4 +601,4 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:141](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L141)
+[types/clientes.ts:141](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L141)

@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[types/clientes.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L25)
+[types/clientes.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L25)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L24)
+[types/clientes.ts:24](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L24)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L26)
+[types/clientes.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L26)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L27)
+[types/clientes.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L27)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[types/clientes.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L28)
+[types/clientes.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L28)
 
 ___
 
@@ -75,4 +75,4 @@ Definir transferência como forma de pagamento padrão?
 
 #### Defined in
 
-[types/clientes.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L32)
+[types/clientes.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L32)

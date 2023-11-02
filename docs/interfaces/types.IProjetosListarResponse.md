@@ -24,7 +24,7 @@ Projetos cadastrados
 
 #### Defined in
 
-[types/projetos.ts:104](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L104)
+[types/projetos.ts:104](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/projetos.ts#L104)
 
 ___
 
@@ -36,7 +36,7 @@ Número da página listada
 
 #### Defined in
 
-[types/projetos.ts:88](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L88)
+[types/projetos.ts:88](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/projetos.ts#L88)
 
 ___
 
@@ -48,7 +48,7 @@ Número de registros retornados
 
 #### Defined in
 
-[types/projetos.ts:96](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L96)
+[types/projetos.ts:96](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/projetos.ts#L96)
 
 ___
 
@@ -60,7 +60,7 @@ Total de páginas encontradas
 
 #### Defined in
 
-[types/projetos.ts:92](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L92)
+[types/projetos.ts:92](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/projetos.ts#L92)
 
 ___
 
@@ -72,4 +72,4 @@ Total de registros encontrados
 
 #### Defined in
 
-[types/projetos.ts:100](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/projetos.ts#L100)
+[types/projetos.ts:100](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/projetos.ts#L100)

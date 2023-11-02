@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[types/categorias.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L82)
+[types/categorias.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L82)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[types/categorias.ts:78](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L78)
+[types/categorias.ts:78](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L78)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[types/categorias.ts:80](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L80)
+[types/categorias.ts:80](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L80)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[types/categorias.ts:79](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L79)
+[types/categorias.ts:79](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L79)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[types/categorias.ts:81](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L81)
+[types/categorias.ts:81](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L81)

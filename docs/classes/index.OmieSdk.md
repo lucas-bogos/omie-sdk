@@ -17,8 +17,10 @@
 - [clientes](index.OmieSdk.md#clientes)
 - [departamentos](index.OmieSdk.md#departamentos)
 - [empresas](index.OmieSdk.md#empresas)
+- [parcelas](index.OmieSdk.md#parcelas)
 - [projetos](index.OmieSdk.md#projetos)
 - [tags](index.OmieSdk.md#tags)
+- [tipoAtividades](index.OmieSdk.md#tipoatividades)
 
 ## Constructors
 
@@ -34,7 +36,7 @@
 
 #### Defined in
 
-[omie-sdk.ts:17](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L17)
+[omie-sdk.ts:19](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L19)
 
 ## Properties
 
@@ -44,7 +46,7 @@
 
 #### Defined in
 
-[omie-sdk.ts:23](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L23)
+[omie-sdk.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L25)
 
 ___
 
@@ -54,7 +56,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L33)
+[omie-sdk.ts:35](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L35)
 
 ___
 
@@ -64,7 +66,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:21](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L21)
+[omie-sdk.ts:23](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L23)
 
 ___
 
@@ -74,7 +76,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:31](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L31)
+[omie-sdk.ts:33](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L33)
 
 ___
 
@@ -84,7 +86,17 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:29](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L29)
+[omie-sdk.ts:31](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L31)
+
+___
+
+### parcelas
+
+• `Readonly` **parcelas**: [`Parcelas`](lib.Parcelas.md)
+
+#### Defined in
+
+[omie-sdk.ts:37](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L37)
 
 ___
 
@@ -94,7 +106,7 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L27)
+[omie-sdk.ts:29](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L29)
 
 ___
 
@@ -104,4 +116,14 @@ ___
 
 #### Defined in
 
-[omie-sdk.ts:25](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/omie-sdk.ts#L25)
+[omie-sdk.ts:27](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L27)
+
+___
+
+### tipoAtividades
+
+• `Readonly` **tipoAtividades**: [`TipoAtividades`](lib.TipoAtividades.md)
+
+#### Defined in
+
+[omie-sdk.ts:39](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/omie-sdk.ts#L39)

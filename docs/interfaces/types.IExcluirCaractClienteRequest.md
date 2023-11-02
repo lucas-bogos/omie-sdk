@@ -32,7 +32,7 @@ Pick.campo
 
 #### Defined in
 
-[types/caracteristicas.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/caracteristicas.ts#L9)
+[types/caracteristicas.ts:9](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/caracteristicas.ts#L9)
 
 ___
 
@@ -48,7 +48,7 @@ Código de integração com sistemas legados
 
 #### Defined in
 
-[types/clientes.ts:86](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L86)
+[types/clientes.ts:86](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L86)
 
 ___
 
@@ -64,4 +64,4 @@ Código de Cliente / Fornecedor
 
 #### Defined in
 
-[types/clientes.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L82)
+[types/clientes.ts:82](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L82)

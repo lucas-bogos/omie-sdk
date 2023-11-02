@@ -30,6 +30,10 @@ Api Client para comunicação com a Omie
 
   ↳ [`Departamentos`](lib.Departamentos.md)
 
+  ↳ [`Parcelas`](lib.Parcelas.md)
+
+  ↳ [`TipoAtividades`](lib.TipoAtividades.md)
+
 ## Table of contents
 
 ### Constructors
@@ -50,4 +54,4 @@ Api Client para comunicação com a Omie
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/api.ts#L32)

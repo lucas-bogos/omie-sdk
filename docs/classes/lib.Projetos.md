@@ -48,7 +48,7 @@ Gerenciamento do cadastro de projetos
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/api.ts#L32)
 
 ## Methods
 
@@ -68,7 +68,7 @@ Gerenciamento do cadastro de projetos
 
 #### Defined in
 
-[lib/projetos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/projetos.ts#L26)
+[lib/projetos.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/projetos.ts#L26)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[lib/projetos.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/projetos.ts#L32)
+[lib/projetos.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/projetos.ts#L32)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[lib/projetos.ts:38](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/projetos.ts#L38)
+[lib/projetos.ts:38](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/projetos.ts#L38)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[lib/projetos.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/projetos.ts#L44)
+[lib/projetos.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/projetos.ts#L44)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[lib/projetos.ts:50](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/projetos.ts#L50)
+[lib/projetos.ts:50](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/projetos.ts#L50)

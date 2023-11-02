@@ -45,7 +45,7 @@ Gerenciamento de categorias
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/api.ts#L32)
 
 ## Methods
 
@@ -65,7 +65,7 @@ Gerenciamento de categorias
 
 #### Defined in
 
-[lib/categorias.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/categorias.ts#L26)
+[lib/categorias.ts:26](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/categorias.ts#L26)
 
 ___
 
@@ -85,4 +85,4 @@ ___
 
 #### Defined in
 
-[lib/categorias.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/categorias.ts#L20)
+[lib/categorias.ts:20](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/categorias.ts#L20)

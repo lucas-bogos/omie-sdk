@@ -5,3 +5,5 @@ export * from "./projetos";
 export * from "./empresas";
 export * from "./categorias";
 export * from "./departamentos";
+export * from "./parcelas";
+export * from "./tipo-atividades";

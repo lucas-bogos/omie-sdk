@@ -30,4 +30,4 @@ Pick.codigo
 
 #### Defined in
 
-[types/departamentos.ts:7](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L7)
+[types/departamentos.ts:7](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L7)

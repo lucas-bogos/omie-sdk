@@ -7,6 +7,8 @@ import {
   Empresas,
   Departamentos,
   Categorias,
+  Parcelas,
+  TipoAtividades,
 } from "./lib";
 
 import type { ApiCredentials } from "./api";
@@ -31,6 +33,10 @@ export class OmieSdk {
   public readonly departamentos = new Departamentos(this._credentials);
 
   public readonly categorias = new Categorias(this._credentials);
+
+  public readonly parcelas = new Parcelas(this._credentials);
+
+  public readonly tipoAtividades = new TipoAtividades(this._credentials);
 }
 
 export default OmieSdk;

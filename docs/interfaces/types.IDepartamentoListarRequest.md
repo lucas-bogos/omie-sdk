@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/departamentos.ts:62](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L62)
+[types/departamentos.ts:62](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L62)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/departamentos.ts:63](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L63)
+[types/departamentos.ts:63](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L63)

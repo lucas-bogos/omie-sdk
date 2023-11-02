@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L10)
+[types/tags.ts:10](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L10)
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/tags.ts#L11)
+[types/tags.ts:11](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/tags.ts#L11)

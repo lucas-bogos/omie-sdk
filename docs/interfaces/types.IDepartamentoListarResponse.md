@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[types/departamentos.ts:71](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L71)
+[types/departamentos.ts:71](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L71)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[types/departamentos.ts:67](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L67)
+[types/departamentos.ts:67](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L67)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[types/departamentos.ts:69](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L69)
+[types/departamentos.ts:69](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L69)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[types/departamentos.ts:68](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L68)
+[types/departamentos.ts:68](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L68)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[types/departamentos.ts:70](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/departamentos.ts#L70)
+[types/departamentos.ts:70](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/departamentos.ts#L70)

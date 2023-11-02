@@ -52,7 +52,7 @@ Gerenciamento do cadastro de clientes e fornecedores
 
 #### Defined in
 
-[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/api.ts#L32)
+[api.ts:32](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/api.ts#L32)
 
 ## Methods
 
@@ -72,7 +72,7 @@ Gerenciamento do cadastro de clientes e fornecedores
 
 #### Defined in
 
-[lib/clientes.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L64)
+[lib/clientes.ts:64](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L64)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:58](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L58)
+[lib/clientes.ts:58](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L58)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:34](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L34)
+[lib/clientes.ts:34](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L34)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:54](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L54)
+[lib/clientes.ts:54](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L54)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L40)
+[lib/clientes.ts:40](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L40)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L22)
+[lib/clientes.ts:22](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L22)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L28)
+[lib/clientes.ts:28](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L28)
 
 ___
 
@@ -212,7 +212,7 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L44)
+[lib/clientes.ts:44](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L44)
 
 ___
 
@@ -232,4 +232,4 @@ ___
 
 #### Defined in
 
-[lib/clientes.ts:48](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/lib/clientes.ts#L48)
+[lib/clientes.ts:48](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/lib/clientes.ts#L48)

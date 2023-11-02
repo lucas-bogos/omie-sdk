@@ -60,6 +60,9 @@
 - [IExcluirTodasCaractClienteResponse](../interfaces/types.IExcluirTodasCaractClienteResponse.md)
 - [IIncluirCaractClienteRequest](../interfaces/types.IIncluirCaractClienteRequest.md)
 - [IIncluirCaractClienteResponse](../interfaces/types.IIncluirCaractClienteResponse.md)
+- [IParcela](../interfaces/types.IParcela.md)
+- [IParcelaListarRequest](../interfaces/types.IParcelaListarRequest.md)
+- [IParcelaListarResponse](../interfaces/types.IParcelaListarResponse.md)
 - [IProjetosAlterarRequest](../interfaces/types.IProjetosAlterarRequest.md)
 - [IProjetosAlterarResponse](../interfaces/types.IProjetosAlterarResponse.md)
 - [IProjetosCadastroChave](../interfaces/types.IProjetosCadastroChave.md)
@@ -79,6 +82,9 @@
 - [IStatusProjeto](../interfaces/types.IStatusProjeto.md)
 - [IStatusTag](../interfaces/types.IStatusTag.md)
 - [ITag](../interfaces/types.ITag.md)
+- [ITipoAtividade](../interfaces/types.ITipoAtividade.md)
+- [ITipoAtividadeListarRequest](../interfaces/types.ITipoAtividadeListarRequest.md)
+- [ITipoAtividadeListarResponse](../interfaces/types.ITipoAtividadeListarResponse.md)
 - [Info](../interfaces/types.Info.md)
 
 ### Type Aliases
@@ -105,7 +111,7 @@
 
 #### Defined in
 
-[types/clientes.ts:235](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/clientes.ts#L235)
+[types/clientes.ts:235](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/clientes.ts#L235)
 
 ___
 
@@ -117,7 +123,7 @@ ___
 
 #### Defined in
 
-[types/string-boolean.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/string-boolean.ts#L4)
+[types/string-boolean.ts:4](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/string-boolean.ts#L4)
 
 ___
 
@@ -133,4 +139,4 @@ Retorna apenas as categorias ativas, não totalizadoras e que estejam configurad
 
 #### Defined in
 
-[types/categorias.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/fa631c8/src/types/categorias.ts#L119)
+[types/categorias.ts:119](https://github.com/lucas-bogos/omie-sdk/blob/96c014c/src/types/categorias.ts#L119)
